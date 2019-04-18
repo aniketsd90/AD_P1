@@ -5,6 +5,8 @@
 
 int main()
 {
+	// Comments:
+	// Checking the working of code
     std::cout << "Hello World!\n"; 
 }
 
